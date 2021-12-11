@@ -1,5 +1,7 @@
 # emacs-vaporwave-icon
 
+![Emacs](Emacs.svg)
+
 An Emacs vaporwave icon.
 
 
