@@ -1,8 +1,8 @@
 # emacs-vaporwave-icon
 
-![Emacs](Emacs.svg)
+![Emacs new](EmacsNew.png) ![Emacs classic](Emacs.png)
 
-An Emacs vaporwave icon.
+Emacs vaporwave icons.
 
 
 ## acknowledgments
